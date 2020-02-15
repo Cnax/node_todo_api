@@ -1,3 +1,5 @@
+根据慕课网课程实现一个简单的使用node加mysql实现curd的demo
+
 数据库创建
 
 使用mysql数据库，sequelize， sequelize-cli 工具
